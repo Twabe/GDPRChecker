@@ -107,7 +107,6 @@ public class GDPRChecker {
                 })
                 .withPersonalizedAdsOption()
                 .withNonPersonalizedAdsOption()
-                .withAdFreeOption()
                 .build();
 
         form.load();
